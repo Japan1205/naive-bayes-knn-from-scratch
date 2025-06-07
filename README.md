@@ -90,4 +90,4 @@ pip install numpy pandas matplotlib scikit-learn
 
 ## 📎 Author
 
-*Your Name Here*
+Japan N. Pancholi
